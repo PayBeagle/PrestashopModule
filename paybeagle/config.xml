@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>paybeagle</name>
+	<displayName>PayBeagle Hosted Payments</displayName>
+	<version>1.0</version>
+	<description>Process secure payments with PayBeagle</description>
+	<author>PayBeagle</author>
+	<tab>payments_gateways</tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+</module>
