@@ -7,7 +7,7 @@ class paybeagle extends PaymentModule
 
         $this->name = 'paybeagle';
         $this->tab = 'payments_gateways';
-        $this->version = '1.0.2';
+        $this->version = '1.0.3';
         $this->author = 'PayBeagle';
         $this->displayName = 'PayBeagle Hosted Payments';
         $this->description = $this->l('Process secure payments with PayBeagle');
