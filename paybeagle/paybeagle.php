@@ -27,7 +27,7 @@ class paybeagle extends PaymentModule
 
 		// define constants based on sandbox bool (urls mainly)
 		if($this->sandbox){
-			$this->paybeagle_domain = 'sandbox.paybeagle.com';
+			$this->paybeagle_domain = 'sandboxx.paybeagle.com';
 		} else {
 			$this->paybeagle_domain = 'secure.paybeagle.com';
 		}
